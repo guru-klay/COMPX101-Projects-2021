@@ -7,4 +7,5 @@ A repository for projects completed during University course COMPX101 in 2021
 | Link                                        | Example      |    
 | --------------------------------------------|:------------:|
 | [2.2 Hello World](/2.2%20Hello%20World/)    | ![](/hello_world.gif)|
+| [2.3 Language Translator](/2.3%20Language%20Translator/)    | ![](/language_translator.gif)|
 
