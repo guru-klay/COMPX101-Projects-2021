@@ -2,4 +2,4 @@
 A repository for projects completed during University course COMPX101 in 2021
 
 
-![test](/hello_world.gif)
+[Play with this example if you want!](/hello_world.gif)
