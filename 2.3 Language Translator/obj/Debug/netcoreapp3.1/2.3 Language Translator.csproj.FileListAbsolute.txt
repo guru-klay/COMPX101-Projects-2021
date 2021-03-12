@@ -1,0 +1,15 @@
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\bin\Debug\netcoreapp3.1\2.3 Language Translator.exe
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\bin\Debug\netcoreapp3.1\2.3 Language Translator.deps.json
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\bin\Debug\netcoreapp3.1\2.3 Language Translator.runtimeconfig.json
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\bin\Debug\netcoreapp3.1\2.3 Language Translator.runtimeconfig.dev.json
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\bin\Debug\netcoreapp3.1\2.3 Language Translator.dll
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\bin\Debug\netcoreapp3.1\2.3 Language Translator.pdb
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\obj\Debug\netcoreapp3.1\2.3 Language Translator.csprojAssemblyReference.cache
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\obj\Debug\netcoreapp3.1\_2._3_Language_Translator.Form1.resources
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\obj\Debug\netcoreapp3.1\2.3 Language Translator.csproj.GenerateResource.cache
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\obj\Debug\netcoreapp3.1\2.3 Language Translator.AssemblyInfoInputs.cache
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\obj\Debug\netcoreapp3.1\2.3 Language Translator.AssemblyInfo.cs
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\obj\Debug\netcoreapp3.1\2.3 Language Translator.csproj.CoreCompileInputs.cache
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\obj\Debug\netcoreapp3.1\2.3 Language Translator.dll
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\obj\Debug\netcoreapp3.1\2.3 Language Translator.pdb
+C:\Users\Clayton\Documents\webdev\university\COMPX101\TextBook Exercises\2.3 Language Translator\obj\Debug\netcoreapp3.1\2.3 Language Translator.genruntimeconfig.cache
